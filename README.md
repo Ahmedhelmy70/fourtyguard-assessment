@@ -29,8 +29,8 @@ The script does not decide the answers for you. It collects evidence (status cod
 ## Setup
 
 ```bash
-git clone <your-repo-url>
-cd fortyguard-api-tester
+git clone https://github.com/Ahmedhelmy70/fourtyguard-assessment
+cd fourtyguard-assessment
 
 python3 -m venv .venv
 source .venv/bin/activate
